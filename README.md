@@ -1,4 +1,4 @@
-# Book Recommendation System README
+# Book Recommendation System 
 
 This repository contains code for a book recommendation system based on collaborative filtering. The system suggests books similar to a given book, leveraging information about authors and publishers.
 
