@@ -95,3 +95,7 @@ The project relies on the following dependencies:
 
 These dependencies can be installed using `pip` as mentioned in the setup instructions.
 
+## Authors
+
+- [Sri Manjeedan Shakthivel](https://github.com/Manjeedan11) - *Initial work*
+
